@@ -1,0 +1,1 @@
+web: gunicorn dylan_lyric_generator.wsgi
