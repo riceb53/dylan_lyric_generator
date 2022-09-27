@@ -1,6 +1,3 @@
-tensorflow==1.14
-tensorflow-io-gcs-filesystem
+tensorflow
 numpy
-numpydoc
 pandas
-jinja2-time
